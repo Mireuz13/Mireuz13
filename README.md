@@ -3,6 +3,6 @@
 ```python
 def Eduardo(code,tools) =
   pronouns =  "he",
-  code = [Typescript, Python],
-  tools = [Sckitlearn,Spark,Latex,Pandas,Databricks],
+  code = [Typescript, Python, Go],
+  tools = [Sckitlearn,Spark,Latex,Pandas,Databricks, visualstudiocode, Pytorch],
 ```
